@@ -61,4 +61,6 @@
 
 - [PDF Schematics](./mini-space-rockers-instructions.pdf)
 
+![Mini Space Rockers Schematics](./mini-space-rockers.png)
+
 -----
