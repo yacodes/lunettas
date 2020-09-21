@@ -2,6 +2,14 @@
 > Working repo for lunetta synthesizers schematics and ideas
 
 ## Table of Contents
+* [Links](#links)
+* [DIY Projects &amp; Schematics](#diy-projects--schematics)
+	* [40106 FM Drone Synth](#40106-fm-drone-synth)
+	* [40106 RezzoDrone](#40106-rezzodrone)
+	* [40106 Synth Drum](#40106-synth-drum)
+	* [40106 Voice Modulated Synth](#40106-voice-modulated-synth)
+	* [555 AD/AR](#555-adar)
+	* [Mini Space Rockers](#mini-space-rockers)
 
 ## Links
 - [DIY Synths Schematics](http://www.sdiy.org/)
