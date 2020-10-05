@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * [Links](#links)
+* [PCBS](#pcbs)
 * [DIY Projects &amp; Schematics](#diy-projects--schematics)
 	* [40106 FM Drone Synth](#40106-fm-drone-synth)
 	* [40106 RezzoDrone](#40106-rezzodrone)
@@ -18,6 +19,14 @@
 - [Intro to Lunetta CMOS Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit?usp=sharing)
 - [Lunetta Modular by Chris Karcz](https://github.com/ckarcz/Modular-Lunetta)
 - [Lunetta Modular by Chris Beckstrom](https://chrisbeckstrom.com/main/the-modular)
+- [Jürgen Haible - Schematics](http://www.jhaible.info/additional_schemos.html)
+- [Beavis Audio Projects](http://beavisaudio.com/projects/index.htm)
+- [Beavis Audio CMOS Synthesizers](http://beavisaudio.com/projects/cmossynthesizers/)
+- [Moritz Klein - DIY SYNTH VCO](https://www.youtube.com/watch?v=QBatvo8bCa4) 🔥🔥🔥
+
+## PCBS
+- [Kitspace](https://kitspace.org/)
+- [Tindie](https://www.tindie.com/)
 
 ## DIY Projects & Schematics
 
