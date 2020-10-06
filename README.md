@@ -23,6 +23,13 @@
 - [Beavis Audio Projects](http://beavisaudio.com/projects/index.htm)
 - [Beavis Audio CMOS Synthesizers](http://beavisaudio.com/projects/cmossynthesizers/)
 - [Moritz Klein - DIY SYNTH VCO](https://www.youtube.com/watch?v=QBatvo8bCa4) 🔥🔥🔥
+- [Handmade Electronics by James Schidlowsky](http://www.jamesschidlowsky.ca/electronics.html)
+- [Moosack Machines](http://moosack.net/lunettacircuits/)
+- [The Big Lunetta Link-o-rama](https://electro-music.com/forum/topic-42772.html)
+- [fun with sea moss](http://www.milkcrate.com.au/_other/sea-moss/#basic)
+- [CMOS - useful chips for DIY Lunetta Synths](https://djjondent.blogspot.com/2017/08/cmos-useful-chips-for-lunetta-synths.html)
+- [Synth DIY books](https://sdiy.info/wiki/Synth_DIY_books#The_VCO_Chip_Cookbook_by_Thomas_Henry)
+- [Casper Electronics DIY synth building. Part 1: Oscillators](https://www.youtube.com/watch?v=FaoJaLmZaL4) 🔥🔥🔥
 
 ## PCBS
 - [Kitspace](https://kitspace.org/)
